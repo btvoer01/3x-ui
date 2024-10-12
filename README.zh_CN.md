@@ -27,7 +27,7 @@
 ## 安装 & 升级
 
 ```
-bash <(curl -Ls https://raw.githubusercontent.com/mhsanaei/3x-ui/master/install.sh)
+bash <(curl -Ls https://raw.githubusercontent.com/btvoer01/3x-ui/refs/heads/main/install.sh)
 ```
 
 ## 安装指定版本
